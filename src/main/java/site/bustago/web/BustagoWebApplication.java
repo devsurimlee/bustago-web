@@ -1,4 +1,4 @@
-package site.bustago.web.bustagoweb;
+package site.bustago.web;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
