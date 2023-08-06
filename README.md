@@ -27,9 +27,14 @@ java -jar ./build/libs/bustago-web-0.0.1-SNAPSHOT.jar --args='--profile=local'
 ex) feat: 회원가입 api 작업 완료
 ```
 
-* branch 생성 규칙
+* branch 생성규칙
   * 브랜치는 기능단위로 생성하고 이름은 feat/숫자로 정한다.
   * 작업이 끝나면 pull request를 생성하고 깃허브에서 merge처리한다.
   * 커밋이 많은 경우 적절히 통합하여 올린다. (squash 이용)
-  
+
+
+* 서브모듈 업데이트
+```
+git submodule update --remote
+```
 
