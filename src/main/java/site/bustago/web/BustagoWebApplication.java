@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class BustagoWebApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(BustagoWebApplication.class, args);
+        SpringApplication.run(BustagoWebApplication.class, args);//터미널
     }
 
 }

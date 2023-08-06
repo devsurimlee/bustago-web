@@ -1,0 +1,3 @@
+[submodule "setting"]
+	path = setting
+	url = https://github.com/devsurimlee/bustago-setting
